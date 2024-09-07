@@ -1,34 +1,34 @@
-document_id,event,date,time,location
-1,ID and Visa Check,3 October 2024,All day,"Tutorial Office, Ground Floor, B staircase"
-2,MCR Wine and Cheese Welcome Event,3 October 2024,7pm,Old Library
-3,ID and Visa Check,4 October 2024,All day,"Tutorial Office, Ground Floor, B staircase"
-4,Tours of Emmanuel College,4 October 2024,1pm & 2pm,Meet at Porters' Lodge
-5,Welcome to Emma Induction,4 October 2024,3-6pm,Old Library
-6,Buffet Dinner & Quiz,4 October 2024,7-9pm,Old Library
-7,Outdoor Activities,5 October 2024,2pm,Paddock
-8,Pub Trip,5 October 2024,9pm onwards,Meet at Porters' Lodge
-9,Tour of the Backs,6 October 2024,1pm,Meet at Porters' Lodge
-10,Choir Audition,6 October 2024,1-5pm,Chapel
-11,Gym Inductions,6 October 2024,3:30pm,Meet at Porters' Lodge
-12,Duck/Duckling Dinner,6 October 2024,6-8pm,Your duck will be in touch
-13,Jazz & Cocktails,6 October 2024,8pm onwards,Chapel
-14,Introduction to Computing at Emma,7 October 2024,2:30pm,Queen’s Building
-15,Games Night,7 October 2024,7:30pm,MCR Room
-16,University Freshers' Fair,8 October 2024,10am-5pm,Kelsey Kerridge and Parkers’ Piece
-17,MCR Freshers’ Dinner,8 October 2024,7-9:30pm,Old Library and Hall
-18,Ceilidh,8 October 2024,9:15pm onwards,Old Library
-19,ID and Visa Check,9 October 2024,All day,"Tutorial Office, Ground Floor, B staircase"
-20,Cambridge Freshers' Fair,9 October 2024,10am-4pm,Kelsey Kerridge and Parkers’ Piece
-21,Historical Tour of the College,9 October 2024,2pm,Meet at Porters' Lodge
-22,Movie Night,9 October 2024,7:30pm,MCR Room
-23,Welcome Service,10 October 2024,6-8pm,Chapel
-24,Pub Crawl,11 October 2024,8-11pm,Meet at Porters’ Lodge
-25,International Snacks,12 October 2024,1:30-2:30pm,MCR Room
-26,Cambridge Botanical Gardens Tour,12 October 2024,2:30-5pm,Walk to gardens from Porters' Lodge
-27,Brunch in Hall,13 October 2024,10:30am,Hall
-28,Trip to Ely Cathedral,13 October 2024,3pm,Meet at Porters’ Lodge
-29,Meet with Your Postgraduate Tutor,Week of 14 October 2024,Various times TBC,"Rooms C2, L9a, 5, 22 Parkside"
-30,Bowling at TenPin,15 October 2024,6:30pm,Walk over the bridge from Porters' Lodge
-31,Postgraduate Matriculation,23 October 2024,4:45pm,Assemble in the Old Library in correct attire
-32,Postgraduate Matriculation Dinner,23 October 2024,7pm,Old Library and Hall
-33,Karaoke Night,23 October 2024,9:45pm-midnight,Emma Bar
+document_id,event,date,time,location,description
+1,ID and Visa Check,3 October 2024,All day,"Tutorial Office, Ground Floor, B staircase",Mandatory for new students; bring ID and visa documents.
+2,MCR Wine and Cheese Welcome Event,3 October 2024,7pm,Old Library,Evening social with wine and cheese for new postgraduates.
+3,ID and Visa Check,4 October 2024,All day,"Tutorial Office, Ground Floor, B staircase",Mandatory for new students; bring ID and visa documents.
+4,Tours of Emmanuel College,4 October 2024,1pm & 2pm,Meet at Porters' Lodge,Guided tours showing college facilities.
+5,Welcome to Emma Induction,4 October 2024,3-6pm,Old Library,Mandatory college induction for new postgraduates.
+6,Buffet Dinner & Quiz,4 October 2024,7-9pm,Old Library,Social evening with buffet and quiz games.
+7,Outdoor Activities,5 October 2024,2pm,Paddock,Outdoor activities including sports and arts at Paddock.
+8,Pub Trip,5 October 2024,9pm onwards,Meet at Porters' Lodge,Evening pub trip with potential student discounts.
+9,Tour of the Backs,6 October 2024,1pm,Meet at Porters' Lodge,Guided scenic tour near several university colleges.
+10,Choir Audition,6 October 2024,1-5pm,Chapel,Opportunity to audition and join the college choir.
+11,Gym Inductions,6 October 2024,3:30pm,Meet at Porters' Lodge,Mandatory gym induction for new gym users.
+12,Duck/Duckling Dinner,6 October 2024,6-8pm,Your duck will be in touch,Dinner event connecting new and current postgraduates.
+13,Jazz & Cocktails,6 October 2024,8pm onwards,Chapel,Evening of live jazz music and cocktails.
+14,Introduction to Computing at Emma,7 October 2024,2:30pm,Queen’s Building,Session on computing resources available at Emmanuel.
+15,Games Night,7 October 2024,7:30pm,MCR Room,Evening of board games and socializing.
+16,University Freshers' Fair,8 October 2024,10am-5pm,Kelsey Kerridge and Parkers’ Piece,"Explore university societies and sports, with free pizza; sign up for activities."
+17,MCR Freshers’ Dinner,8 October 2024,7-9:30pm,Old Library and Hall,Formal dinner and drinks to welcome new postgraduates; RSVP required.
+18,Ceilidh,8 October 2024,9:15pm onwards,Old Library,Scottish group dance to socialize and have fun; no sign up required.
+19,ID and Visa Check,9 October 2024,All day,"Tutorial Office, Ground Floor, B staircase",Mandatory for new students; bring ID and visa documents.
+20,Cambridge Freshers' Fair,9 October 2024,10am-4pm,Kelsey Kerridge and Parkers’ Piece,"Explore university societies and sports, with free pizza; sign up for activities."
+21,Historical Tour of the College,9 October 2024,2pm,Meet at Porters' Lodge,Historical tour explaining the college's past; meet at Porters' Lodge.
+22,Movie Night,9 October 2024,7:30pm,MCR Room,Movie night with snacks; last year featured 'Mrs. Doubtfire'.
+23,Welcome Service,10 October 2024,6-8pm,Chapel,Service marking the academic year start; buffet supper follows.
+24,Pub Crawl,11 October 2024,8-11pm,Meet at Porters’ Lodge,Tour of local pubs with discounts for students; bring CamCard.
+25,International Snacks,12 October 2024,1:30-2:30pm,MCR Room,Meet students from around the world and share snacks.
+26,Cambridge Botanical Gardens Tour,12 October 2024,2:30-5pm,Walk to gardens from Porters' Lodge,Tour the Botanical Gardens; free with CamCard.
+27,Brunch in Hall,13 October 2024,10:30am,Hall,Casual brunch in the college hall to conclude the week.
+28,Trip to Ely Cathedral,13 October 2024,3pm,Meet at Porters’ Lodge,Group bike ride to Ely Cathedral; starts at noon.
+29,Meet with Your Postgraduate Tutor,Week of 14 October 2024,Various times TBC,"Rooms C2, L9a, 5, 22 Parkside",Meet your tutor for the year; sign up via Moodle.
+30,Bowling at TenPin,15 October 2024,6:30pm,Walk over the bridge from Porters' Lodge,Social bowling with PhD students; sign up required.
+31,Postgraduate Matriculation,23 October 2024,4:45pm,Assemble in the Old Library in correct attire,Matriculation ceremony for new postgraduates; formal attire required.
+32,Postgraduate Matriculation Dinner,23 October 2024,7pm,Old Library and Hall,Matriculation dinner; RSVP and dietary preferences by 25 September.
+33,Karaoke Night,23 October 2024,9:45pm-midnight,Emma Bar,Karaoke night post-dinner; a fun way to socialize.
